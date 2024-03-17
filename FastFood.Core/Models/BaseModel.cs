@@ -2,6 +2,9 @@
 
 namespace FastFood.Core.Models
 {
+    /// <summary>
+    /// Base Model
+    /// </summary>
     public class BaseModel
     {
         [Key]
